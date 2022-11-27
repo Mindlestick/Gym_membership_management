@@ -11,3 +11,6 @@ Apache 웹 서버를 통해 MySQL 데이터베이스에 회원 정보를 등록,
 
 Reference
 https://wooin21.tistory.com/33
+
+Apache 동작 확인
+    http:://localhost
