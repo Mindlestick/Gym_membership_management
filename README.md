@@ -13,4 +13,7 @@ Reference
 https://wooin21.tistory.com/33
 
 Apache 동작 확인
-    http:://localhost
+
+```
+http:://localhost
+```
