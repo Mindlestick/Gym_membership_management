@@ -6,6 +6,7 @@ Apache 웹 서버를 통해 MySQL 데이터베이스에 회원 정보를 등록,
 
 필요한 프로그램
 > MySQL
+
 > XAMPP
 
 Reference
