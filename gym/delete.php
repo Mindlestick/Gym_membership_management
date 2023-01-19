@@ -10,7 +10,7 @@
 	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 </head>  
 <body>
-  <!-- 삭제 영화정보 검색 다이알로그 --> 
+  <!-- 삭제 회원정보 검색 다이알로그 --> 
   <div data-role="dialog" id="page3">
 	<div data-role="header" data-theme="b">
 		<h1>회원 검색</h1>

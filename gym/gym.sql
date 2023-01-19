@@ -25,7 +25,7 @@ pass char(12) NOT NULL PRIMARY KEY
 );
 
 INSERT INTO gym
-VALUES ('박민지', '01048908423','여', '1999-02-24', '2019-05-21 11:05:14') ;
+VALUES ('박민지', '01020203030','여', '1999-01-01', '2019-05-21 11:05:14') ;
 
 insert into gym_admin
 value('1234');

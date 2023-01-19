@@ -1,6 +1,6 @@
 <?php
 
-//movieDB 데이터베이스 연결
+//gymDB 데이터베이스 연결
 $conn=mysqli_connect("localhost", "gym_user", "1234", "gymDB") or die("gymDB 접속 실패 !!");
 
 $number = $_POST["password"];
